@@ -1,0 +1,87 @@
+
+
+.columns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-top: 15px;
+    
+    
+  }
+  
+  .column {
+    flex: 33.33%;
+    
+  }
+
+  .identi{
+    margin-left: 10px;
+
+  }
+  .apellido{
+    margin-left: 36px;
+  }
+
+  .nombre{
+    margin-left: 46px;
+  }
+
+  .correo{
+    margin-left: 54px;
+  }
+
+  .celular{
+    margin-left: 51px;
+  }
+  
+  .fecha{
+    margin-left: 10px;
+  }
+
+  .edad{
+    margin-left: 110px;
+    width: 70px;
+  }
+
+  .mes{
+    margin-left: 19px;
+  }
+
+  .mascu{
+    margin-left: 100px;
+  }
+
+  .comuna{
+    margin-left: 35px;
+  }
+
+  .legend{
+    width: 300px;
+    height: 120px;
+  }
+
+  .select{
+    margin-left: 33px;
+  }
+
+  .tabla3{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  
+ h1, h2{
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+
+ }
+
+ .columns-1{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+ }
+
+ 
